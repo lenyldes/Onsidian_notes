@@ -2,7 +2,7 @@
 
 ## Оглавление
 
-1. [Go Question](#Go-Question)
+1. [Go Question](#go-question)
 2. [Go Task](#go-task)
 
 ## Go Question
