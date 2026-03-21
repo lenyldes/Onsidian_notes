@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Promt.md",
+                "file": "Ollama.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Promt"
+              "title": "Ollama"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 307.5
   },
   "right": {
     "id": "c5eb573dd2d4bfed",
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Promt.md",
+                "file": "Ollama.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Promt"
+              "title": "Структура Ollama"
             }
           },
           {
@@ -194,8 +194,8 @@
   },
   "active": "3ecb35f578a03333",
   "lastOpenFiles": [
-    "Без названия.md",
     "Promt.md",
+    "Без названия.md",
     "Go.md",
     "().md",
     "**Go.md",
