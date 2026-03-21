@@ -1,8 +1,8 @@
 ***
 
-1. [Go Question](**Go Question:**)
+1. 
 
-# **Go Question:**
+## **Go Question
 
 
 ```
@@ -80,3 +80,6 @@
 ---- НАЧАЛО ВОПРОСОВ ----
 
 ```
+
+
+afaf
