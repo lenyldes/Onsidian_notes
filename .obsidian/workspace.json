@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ebaed7cfada4e7d",
+        "id": "f69f40cb78aa4955",
         "type": "tabs",
         "children": [
           {
-            "id": "d39cd43fdd56677c",
+            "id": "3ecb35f578a03333",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,10 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d39cd43fdd56677c",
+  "active": "3ecb35f578a03333",
   "lastOpenFiles": [
-    "**Go.md",
+    "Go.md",
     "Promt.md",
+    "().md",
+    "**Go.md",
     "Ollama.md",
     "README.md"
   ]

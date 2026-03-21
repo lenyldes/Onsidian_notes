@@ -1,8 +1,10 @@
 ***
 
-1. 
+## Содержание
 
-## **Go Question
+1. [Go Question](Go Question)
+
+## Go Question
 
 
 ```
