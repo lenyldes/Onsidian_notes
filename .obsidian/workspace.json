@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9fafd7613c0c6613",
+        "id": "0aa3a526b2f521ff",
         "type": "tabs",
         "children": [
           {
-            "id": "328ab72d8f2628f2",
+            "id": "e42966c3fdf26cff",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ollama.md",
+                "file": "Promt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Ollama"
+              "title": "Структура Promt"
             }
           },
           {
@@ -190,8 +190,8 @@
   },
   "active": "06fcd7e8d6ec45fe",
   "lastOpenFiles": [
-    "Ollama.md",
+    "README.md",
     "Promt.md",
-    "README.md"
+    "Ollama.md"
   ]
 }
