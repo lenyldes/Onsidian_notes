@@ -11,10 +11,14 @@
             "id": "a06535e8ef3c3a6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ollama.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Ollama"
             }
           }
         ]
@@ -150,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Ollama.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Ollama"
             }
           },
           {
@@ -189,6 +194,7 @@
   },
   "active": "a06535e8ef3c3a6c",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "Ollama.md"
   ]
 }
