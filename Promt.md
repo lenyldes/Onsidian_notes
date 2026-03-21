@@ -2,7 +2,7 @@
 
 ## Содержание
 
-1. [Go Question](Go Question)
+1. [Go Question](#go-question)
 
 ## Go Question
 
