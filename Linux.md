@@ -1,6 +1,6 @@
 ## Серверы
-### Настройка fail2ban
-#### Установка
+### fail2ban
+#### Установка и настройка
 ```
 sudo apt update && sudo apt install fail2ban
 ```
@@ -34,4 +34,8 @@ findtime = 3600
 Устанавливаем:
 ```
 sudo apt install python3-systemd
+```
+Проверяем:
+```
+sudo systemctl restart fail2ban && sudo systemctl status fail2ban.service
 ```
