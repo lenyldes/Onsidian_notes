@@ -40,3 +40,17 @@ sudo apt install python3-systemd
 sudo systemctl restart fail2ban && sudo systemctl status fail2ban.service
 ```
 #### Основные команды
+```
+# Список всех джейлов (активных)
+sudo fail2ban-client status
+
+# Подробный статус конкретного джейла
+sudo fail2ban-client status sshd
+```
+```
+# Посмотреть последние строки лога fail2ban
+sudo tail -f /var/log/fail2ban.log
+
+# Поиск ошибок в логе
+sudo grep ERROR /var/log/fail2ban.log
+```
