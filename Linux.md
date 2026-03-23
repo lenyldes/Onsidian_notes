@@ -8,7 +8,18 @@ sudo apt update && sudo apt install fail2ban
 ```
 sudo systemctl status fail2ban.service
 ```
+##### Уменьшаем таймауты
 
+```
+sudo nano /etc/fail2ban/jail.d/sshd.conf
+```
+Сюда пишем:
+```
+[sshd]
+maxretry = 3
+bantime = 3600
+findtime = 3600
+```
 #### Исправление ошибок
 ##### Have not found any log file for sshd jail
 ```
