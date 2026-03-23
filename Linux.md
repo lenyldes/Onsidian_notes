@@ -31,3 +31,7 @@ maxretry = 3
 bantime = 3600
 findtime = 3600
 ```
+Устанавливаем:
+```
+sudo apt install python3-systemd
+```
