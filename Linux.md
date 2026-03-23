@@ -36,12 +36,14 @@ sudo journalctl -u ssh | tail -20
 ```
 sudo nano /etc/fail2ban/jail.d/sshd.conf
 ```
-Сюда пишем:
+Сюда пишем (дописываем):
 ```
 [sshd]
 maxretry = 3
 bantime = 3600
 findtime = 3600
+enabled = true
+backend = systemd
 ```
 Устанавливаем:
 ```
