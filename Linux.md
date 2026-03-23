@@ -4,7 +4,7 @@
 ```
 sudo apt update && sudo apt install fail2ban
 ```
-#### Проверка что все установилось
+##### Проверка что все установилось
 ```
 sudo systemctl status fail2ban.service
 ```
@@ -39,3 +39,4 @@ sudo apt install python3-systemd
 ```
 sudo systemctl restart fail2ban && sudo systemctl status fail2ban.service
 ```
+#### Основные команды
