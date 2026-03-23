@@ -8,6 +8,7 @@ sudo apt update && sudo apt install fail2ban
 ```
 sudo systemctl status fail2ban.service
 ```
+
 #### Исправление ошибок
 ##### Have not found any log file for sshd jail
 ```
