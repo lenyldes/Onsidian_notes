@@ -16,3 +16,7 @@ sudo systemctl status fail2ban.service
 systemd[1]: **fail2ban.service: Main process exited, code=exited, status=255/EXCEPTION**
 systemd[1]: **fail2ban.service: Failed with result 'exit-code'.**
 ```
+Логи пишутся сюда:
+```
+sudo journalctl -u ssh | tail -20
+```
