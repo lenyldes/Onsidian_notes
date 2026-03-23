@@ -20,3 +20,14 @@ systemd[1]: **fail2ban.service: Failed with result 'exit-code'.**
 ```
 sudo journalctl -u ssh | tail -20
 ```
+Далее производим настройку:
+```
+sudo nano /etc/fail2ban/jail.d/sshd.conf
+```
+Сюда пишем:
+```
+[sshd]
+maxretry = 3
+bantime = 3600
+findtime = 3600
+```
