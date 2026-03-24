@@ -68,3 +68,21 @@ sudo tail -f /var/log/fail2ban.log
 # Поиск ошибок в логе
 sudo grep ERROR /var/log/fail2ban.log
 ```
+
+### Кулер Pi5
+
+```bash
+sudo nano /boot/firmware/config.txt
+```
+
+И добавить в конец:
+
+```bash
+**[all]**
+dtparam=nvme
+dtparam=pciex1_gen=3
+usb_max_current_enable=1
+
+# Включить управление вентилятором через ядро
+dtparam=cooling_fan=on
+```

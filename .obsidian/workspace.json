@@ -11,10 +11,14 @@
             "id": "54f0dfe0184206f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Linux"
             }
           }
         ]
@@ -188,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06fcd7e8d6ec45fe",
+  "active": "54f0dfe0184206f8",
   "lastOpenFiles": [
     "Linux.md",
     "Без названия.md",
