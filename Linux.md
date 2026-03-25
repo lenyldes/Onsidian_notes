@@ -1,3 +1,13 @@
+## Docker
+
+### docker-compose.yaml
+
+Установка времени:
+```bash
+    environment:
+      - TZ=Europe/Moscow
+```
+
 ## Серверы
 ### fail2ban
 #### Установка и настройка
