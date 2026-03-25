@@ -91,8 +91,9 @@ dtparam=cooling_fan=on
 
 1) Необходимо получить proxy-config
 ```bash
-curl https://core.telegram.org/getProxyConfig > proxy-config-v4.txt
-curl https://core.telegram.org/getProxyConfigV6 > proxy-config-v6.txt
+sudo bash -c 'curl https://core.telegram.org/getProxyConfig > proxy-config-v4.txt'
+sudo bash -c 'curl https://core.telegram.org/getProxyConfigV6 > proxy-config-v6.txt'
+# флаг -c - выполнить команду в строке
 ```
 2) Добавить зависимости в config.toml
 ```bash
