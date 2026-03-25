@@ -86,3 +86,28 @@ usb_max_current_enable=1
 # Включить управление вентилятором через ядро
 dtparam=cooling_fan=on
 ```
+
+### Telemt
+
+1) Необходимо получить proxy-config
+```bash
+curl https://core.telegram.org/getProxyConfig > proxy-config-v4.txt
+curl https://core.telegram.org/getProxyConfigV6 > proxy-config-v6.txt
+```
+2) Добавить зависимости в config.toml
+```bash
+# === General Settings ===
+[general]
+use_middle_proxy = true
+proxy_config_v4_cache_path = "/run/telemt/cache/proxy-config-v4.txt"
+proxy_config_v6_cache_path = "/run/telemt/cache/proxy-config-v6.txt"
+beobachten = false # тоже отключаем, тк идут ошибки от него
+```
+А также в docker-compose.yaml
+```bash
+    working_dir: /run/telemt
+    volumes:
+      - ./config.toml:/run/telemt/config.toml:ro
+      - ./proxy-config-v4.txt:/run/telemt/cache/proxy-config-v4.txt:ro
+      - ./proxy-config-v6.txt:/run/telemt/cache/proxy-config-v6.txt:ro
+```
