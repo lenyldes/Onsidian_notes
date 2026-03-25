@@ -86,7 +86,7 @@ usb_max_current_enable=1
 # Включить управление вентилятором через ядро
 dtparam=cooling_fan=on
 ```
-
+^^ не помогло
 ### Telemt
 
 1) Необходимо получить proxy-config
@@ -94,6 +94,10 @@ dtparam=cooling_fan=on
 sudo bash -c 'curl https://core.telegram.org/getProxyConfig > proxy-config-v4.txt'
 sudo bash -c 'curl https://core.telegram.org/getProxyConfigV6 > proxy-config-v6.txt'
 # флаг -c - выполнить команду в строке
+
+# выдаем права на запись
+sudo chmod a+w proxy-config-v4.txt 
+sudo chmod a+w proxy-config-v6.txt 
 ```
 2) Добавить зависимости в config.toml
 ```bash
@@ -109,6 +113,14 @@ beobachten = false # тоже отключаем, тк идут ошибки о�
     working_dir: /run/telemt
     volumes:
       - ./config.toml:/run/telemt/config.toml:ro
-      - ./proxy-config-v4.txt:/run/telemt/cache/proxy-config-v4.txt:ro
-      - ./proxy-config-v6.txt:/run/telemt/cache/proxy-config-v6.txt:ro
+      - ./proxy-config-v4.txt:/run/telemt/cache/proxy-config-v4.txt
+      - ./proxy-config-v6.txt:/run/telemt/cache/proxy-config-v6.txt
+```
+
+
+Обновление
+```bash
+docker compose down
+docker rmi ghcr.io/telemt/telemt:latest
+docker compose up -d && docker compose logs -f
 ```
