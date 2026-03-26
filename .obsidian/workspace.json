@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Linux.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "right": {
     "id": "c5eb573dd2d4bfed",
@@ -196,10 +195,10 @@
   },
   "active": "54f0dfe0184206f8",
   "lastOpenFiles": [
+    "Promt.md",
     "Linux.md",
     "Без названия.md",
     "Ollama.md",
-    "Promt.md",
     "Go.md",
     "().md",
     "**Go.md",
