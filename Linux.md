@@ -136,47 +136,31 @@ docker compose up -d && docker compose logs -f
 ```
 
 
-SQL используя Docker Compose
+### SQL используя Docker Compose
 
 ```
 services:
-
-postgres:
-
-image: postgres:18.1
-
-environment:
-
-- POSTGRES_PASSWORD="12345678"
-
-volumes:
-
-- pg_data:/var/lib/postgresql
-
-ports:
-
-- "5432:5432"
-
-dbeaver:
-
-image: dbeaver/cloudbeaver:25.3.5
-
-ports:
-
-- "8978:8978"
+    postgres:
+        image: postgres:18.1
+        environment:
+            - POSTGRES_PASSWORD="12345678"
+        volumes:
+            - pg_data:/var/lib/postgresql
+        ports:
+            - "5432:5432"
+    
+    dbeaver:
+        image: dbeaver/cloudbeaver:25.3.5
+        ports:
+            - "8978:8978"
+        volumes:
+            - dbeaver_data:/opt/cloudebeaver/workspace
 
 volumes:
-
-- dbeaver_data:/opt/cloudebeaver/workspace
-
-  
-
-volumes:
-
-pg_data:
-
-dbeaver_data:
+    pg_data:
+    dbeaver_data:
 ```
+
 docker compose up -d
 
 Заходим: http://localhost:8978/
