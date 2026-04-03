@@ -189,3 +189,8 @@ docker compose up -d
 **!!!Далее при подключении!!!**:
 HOST с localhost меняем на имя сервиса, т.е. postgres
 В настройках DATABASE LIST: v Show all databases
+
+#### AmneziaClient на сервер
+
+Для Debian
+
