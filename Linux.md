@@ -99,6 +99,26 @@ dtparam=cooling_fan=on
 ^^ не помогло
 ### Telemt
 
+```bash
+openssl rand -hex 16
+```
+
+```bash
+#!/bin/bash
+
+# Имя целевого файла
+FILE="config.toml"
+
+# Цикл для 10 записей
+for i in {1..15}; do
+    # Генерируем случайную 16-байтовую hex-строку
+    value=$(openssl rand -hex 16)
+    # Дописываем строку в файл
+    echo "user${i} = \"${value}\"" >> "$FILE"
+
+done
+```
+
 1) Необходимо получить proxy-config
 ```bash
 sudo bash -c 'curl https://core.telegram.org/getProxyConfig > proxy-config-v4.txt'
