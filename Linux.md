@@ -104,19 +104,19 @@ openssl rand -hex 16
 ```
 
 ```bash
+# Пересоздайте файл заново (лучший способ)
+cat > generate_hex.sh << 'EOF'
 #!/bin/bash
 
-# Имя целевого файла
 FILE="config.toml"
 
-# Цикл для 10 записей
 for i in {1..15}; do
-    # Генерируем случайную 16-байтовую hex-строку
-    value=$(openssl rand -hex 16)
-    # Дописываем строку в файл
-    echo "user${i} = \"${value}\"" >> "$FILE"
-
+    value=$(openssl rand -hex 16)
+    echo "user${i} = \"${value}\"" >> "$FILE"
 done
+EOF
+
+chmod +x generate_hex.sh
 ```
 
 1) Необходимо получить proxy-config

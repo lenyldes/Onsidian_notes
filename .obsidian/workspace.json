@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f69f40cb78aa4955",
+        "id": "c37ee6e5109c27db",
         "type": "tabs",
         "children": [
           {
-            "id": "3ecb35f578a03333",
+            "id": "54f0dfe0184206f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Promt.md",
-                "mode": "source",
+                "file": "Linux.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Promt"
+              "title": "Linux"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "right": {
     "id": "c5eb573dd2d4bfed",
@@ -178,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ecb35f578a03333",
+  "active": "54f0dfe0184206f8",
   "lastOpenFiles": [
-    "Linux.md",
-    "Ollama.md",
     "Promt.md",
+    "Ollama.md",
+    "Linux.md",
     "Без названия.md",
     "Go.md",
     "().md",
