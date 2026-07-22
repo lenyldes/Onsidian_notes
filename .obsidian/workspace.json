@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4ba1cf3642960178",
+        "id": "ceb1c65d94e3f909",
         "type": "tabs",
         "children": [
           {
-            "id": "a37d43f46cb212e2",
+            "id": "ddd8ea7923dc5d29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Linux"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 278.5
   },
   "right": {
     "id": "c5eb573dd2d4bfed",
@@ -188,15 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a37d43f46cb212e2",
+  "active": "ddd8ea7923dc5d29",
   "lastOpenFiles": [
     "LockStock/Lock Stock #4.md",
     "LockStock/Промт - расширение вопроса..md",
     "Pasted image 20260619121500.png",
-    "Promt.md",
-    "LockStock",
     "Linux.md",
+    "LockStock",
     "Ollama.md",
+    "Promt.md",
     "Без названия.md",
     "Go.md",
     "().md",

@@ -194,3 +194,21 @@ HOST с localhost меняем на имя сервиса, т.е. postgres
 
 Для Debian
 
+
+### Warp Cli для AGY
+
+```bash
+    # 1. Скачиваем ключи безопасности и добавляем официальный репозиторий Cloudflare
+    curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor --output /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
+    echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
+
+    # 2. Обновляем списки и устанавливаем клиент WARP
+    sudo apt-get update
+    sudo apt-get install cloudflare-warp -y
+
+    # 3. Регистрируем устройство (делается один раз)
+    warp-cli --accept-tos registration new
+
+    # 4. Включаем туннель
+    warp-cli connect
+```
