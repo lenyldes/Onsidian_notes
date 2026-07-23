@@ -21,6 +21,7 @@ created: 2026-07-22
 * 💻 [[Go Tutor - Task Prompt|Go Tutor — Практика Go]] — Промт для пошагового решения задач по Go (содержит задание «Калькулятор»).
 * 🗄️ [[SQL Tutor Prompt|SQL Tutor — Базы данных]] — Промт для изучению PostgreSQL (содержит схему БД Pizzeria и задание «Set Theory»).
 * 🐧 [[DevOps Tutor Prompt|DevOps Tutor — Linux & Инфраструктура]] — Промт для изучения Linux, Docker, CI/CD и системного администрирования.
+* 🛠️ [[DevOps Tutor - Task Prompt|DevOps Tutor — Практика DevOps]] — Промт для пошагового решения заданий по DevOps.
 * 🎲 [[LockStock Question Expansion Prompt|LockStock — Промт для генерации вопросов]] — Промт для разворачивания тем в числовые вопросы квиза.
 
 ---
