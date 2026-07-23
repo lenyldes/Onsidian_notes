@@ -25,6 +25,7 @@ created: 2026-07-22
 * 🎲 [[LockStock Question Expansion Prompt|LockStock — Промт для генерации вопросов]] — Промт для разворачивания тем в числовые вопросы квиза.
 * 💬 [[Question Skill Prompt|Question Skill — Легковесное общение]] — Промт для легковесного режима общения.
 * 📚 [[Obsidian Notes Skill Prompt|Obsidian Notes Skill — Управление хранилищем]] — Промт для управления базой заметок Obsidian.
+* 📤 [[Export Skill Prompt|Export Skill — Экспорт чата]] — Промт для экспорта истории текущей беседы в формат Markdown.
 
 ---
 
