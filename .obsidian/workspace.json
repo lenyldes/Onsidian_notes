@@ -194,6 +194,9 @@
   },
   "active": "0c0e85807483c9aa",
   "lastOpenFiles": [
+    "01 - Prompts/scripts/export_chat.py",
+    "01 - Prompts/scripts",
+    "01 - Prompts/Export Skill Prompt.md",
     "README.md",
     "01 - Prompts/Question Skill Prompt.md",
     "01 - Prompts/Obsidian Notes Skill Prompt.md",
@@ -226,8 +229,6 @@
     "LockStock/Lock Stock #4.md",
     "LockStock/Промт - расширение вопроса..md",
     "Pasted image 20260619121500.png",
-    "LockStock",
-    "Ollama.md",
-    "Promt.md"
+    "LockStock"
   ]
 }
