@@ -25,13 +25,13 @@ created: 2026-08-13
 
 ### 📈 Прогресс по проектам
 
-| Проект | Описание | Планируемые даты | Статус | P2P Сдача |
-| :--- | :--- | :--- | :---: | :---: |
-| **DO7** | Docker Compose, Vagrant, Swarm | 17.08 – 21.08 | 🟡 В ожидании | ◻️ |
-| **DO8** | Ansible & Consul Service Discovery | 22.08 – 27.08 | 🟡 В ожидании | ◻️ |
-| **DO9** | Monitoring (Prometheus, Grafana, Loki) | 28.08 – 02.09 | 🟡 В ожидании | ◻️ |
-| **DO10** | Basic Kubernetes (Minikube) | 03.09 – 08.09 | 🟡 В ожидании | ◻️ |
-| **DO11** | Advanced K8s (k3s, Ingress, Cert-Manager) | 09.09 – 14.09 | 🟡 В ожидании | ◻️ |
+| Проект   | Описание                                  | Планируемые даты |    Статус     | P2P Сдача |
+| :------- | :---------------------------------------- | :--------------- | :-----------: | :-------: |
+| **DO7**  | Docker Compose, Vagrant, Swarm            | 17.08 – 21.08    | 🟡 В ожидании |    ◻️     |
+| **DO8**  | Ansible & Consul Service Discovery        | 22.08 – 27.08    | 🟡 В ожидании |    ◻️     |
+| **DO9**  | Monitoring (Prometheus, Grafana, Loki)    | 28.08 – 02.09    | 🟡 В ожидании |    ◻️     |
+| **DO10** | Basic Kubernetes (Minikube)               | 03.09 – 08.09    | 🟡 В ожидании |    ◻️     |
+| **DO11** | Advanced K8s (k3s, Ingress, Cert-Manager) | 09.09 – 14.09    | 🟡 В ожидании |    ◻️     |
 
 ---
 
