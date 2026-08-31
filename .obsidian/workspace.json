@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Linux & DevOps/Ollama & Continue Setup.md",
-                "mode": "source",
+                "file": "01 - Prompts/DevOps Tutor - Task Prompt.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ollama & Continue Setup"
+              "title": "DevOps Tutor - Task Prompt"
             }
           }
         ]
@@ -194,10 +194,10 @@
   },
   "active": "a37d43f46cb212e2",
   "lastOpenFiles": [
+    "02 - Linux & DevOps/Ollama & Continue Setup.md",
     "02 - Linux & DevOps/Linux Administration.md",
     "README.md",
     "Index.md",
-    "02 - Linux & DevOps/Ollama & Continue Setup.md",
     "04 - Inbox/Команды Antigravity CLI.md",
     "_templates/Tech Note Template.md",
     "_templates/Quiz Questions Template.md",
