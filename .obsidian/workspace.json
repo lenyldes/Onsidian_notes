@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c5f17ac8e7293bdb",
+        "id": "562b82dad3567162",
         "type": "tabs",
         "children": [
           {
-            "id": "0276bbc0162c768f",
+            "id": "39888ce6b84e36b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Prompts/DevOps Tutor - Task Prompt.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DevOps Tutor - Task Prompt"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -41,9 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -194,24 +188,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0276bbc0162c768f",
+  "active": "39888ce6b84e36b9",
   "lastOpenFiles": [
+    "01 - Prompts/Obsidian Notes Skill Prompt.md",
+    "01 - Prompts/Question Skill Prompt.md",
     "02 - Linux & DevOps/Linux Administration.md",
+    "02 - Linux & DevOps/Ollama & Continue Setup.md",
+    "README.md",
+    "Index.md",
+    "01 - Prompts/DevOps Tutor - Task Prompt.md",
     "04 - Inbox/Inbox Guide.md",
     "04 - Inbox/Команды Antigravity CLI.md",
     "01 - Prompts/Go Tutor - Question Prompt.md",
     "01 - Prompts/Go Tutor - Task Prompt.md",
-    "01 - Prompts/Question Skill Prompt.md",
     "01 - Prompts/Export Skill Prompt.md",
     "01 - Prompts/LockStock Question Expansion Prompt.md",
-    "01 - Prompts/Obsidian Notes Skill Prompt.md",
-    "02 - Linux & DevOps/Ollama & Continue Setup.md",
-    "Index.md",
-    "README.md",
     "03 - Projects/School21 DevOps/Трекер прогресса DevOps (40 дней).md",
     "00 - Navigation/Index.md",
     "03 - Projects/School21 DevOps",
-    "01 - Prompts/DevOps Tutor - Task Prompt.md",
     "01 - Prompts/scripts/export_chat.py",
     "01 - Prompts/scripts",
     "03 - Projects/LockStock/Lock Stock #4.md",
