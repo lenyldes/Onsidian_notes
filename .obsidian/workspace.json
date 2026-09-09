@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39888ce6b84e36b9",
+  "active": "06fcd7e8d6ec45fe",
   "lastOpenFiles": [
+    "01 - Prompts/Export SKILL.md",
     "01 - Prompts/LockStock Question Expansion Prompt.md",
     "01 - Prompts/Question Skill Prompt.md",
     "01 - Prompts/Obsidian Notes Skill Prompt.md",
@@ -231,7 +232,6 @@
     "01 - Prompts",
     "00 - Navigation",
     "LockStock/Lock Stock #4.md",
-    "LockStock/Промт - расширение вопроса..md",
     "Pasted image 20260619121500.png"
   ]
 }

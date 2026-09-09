@@ -18,7 +18,7 @@ tags:
 2. Запустите готовый Python-скрипт из хранилища заметок пользователя через инструмент `run_command`, передав нужные аргументы:
 
 ```bash
-python3 "/home/lenyldes/Onsidian_notes/01 - Prompts/scripts/export_chat.py" "<ВАШ CONVERSATION ID>" "<ВАШ APP DATA DIRECTORY>"
+python3 "$HOME/Onsidian_notes/01 - Prompts/scripts/export_chat.py" "<ВАШ CONVERSATION ID>" "<ВАШ APP DATA DIRECTORY>"
 ```
 
 3. После успешного выполнения скрипта, обязательно сообщите пользователю точный путь к сгенерированному файлу. Не выводите текст чата в ответ, просто подтвердите экспорт.
