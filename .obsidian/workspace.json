@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Prompts/DevOps Tutor - Task Prompt.md",
+                "file": "01 - Prompts/Export Skill Prompt.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DevOps Tutor - Task Prompt"
+              "title": "Export Skill Prompt"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "39888ce6b84e36b9",
   "lastOpenFiles": [
-    "01 - Prompts/DevOps Tutor Prompt.md",
     "01 - Prompts/DevOps Tutor - Task Prompt.md",
+    "01 - Prompts/DevOps Tutor Prompt.md",
     "01 - Prompts/Obsidian Notes Skill Prompt.md",
     "01 - Prompts/Question Skill Prompt.md",
     "02 - Linux & DevOps/Linux Administration.md",
