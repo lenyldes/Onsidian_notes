@@ -23,6 +23,7 @@ created: 2026-07-22
 * 🐧 [[DevOps Tutor Prompt|DevOps Tutor — Linux & Инфраструктура]] — Промт для изучения Linux, Docker, CI/CD и системного администрирования.
 * 🛠️ [[DevOps Tutor - Task Prompt|DevOps Tutor — Практика DevOps]] — Промт для пошагового решения заданий по DevOps.
 * ✍️ [[DevOps Report Editor Prompt|DevOps Report Editor — Отчёты «Школа 21»]] — Промт для оформления отчётов (REPORT.md) по практическим проектам «Школы 21».
+* 📄 [[Алиса README Editor Prompt|README Editor — Очеловечивание README]] — Промт для рерайтинга и редактуры IT-документации от лица русскоязычного инженера.
 * 🎲 [[LockStock Question Expansion Prompt|LockStock — Промт для генерации вопросов]] — Промт для разворачивания тем в числовые вопросы квиза.
 * 💬 [[Question Skill Prompt|Question Skill — Легковесное общение]] — Промт для легковесного режима общения.
 * 📚 [[Obsidian Notes Skill Prompt|Obsidian Notes Skill — Управление хранилищем]] — Промт для управления базой заметок Obsidian.

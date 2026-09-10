@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Prompts/DevOps Report Editor Prompt.md",
+                "file": "01 - Prompts/Алиса README Editor Prompt.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DevOps Report Editor Prompt"
+              "title": "Алиса README Editor Prompt"
             }
           }
         ]
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39888ce6b84e36b9",
+  "active": "06fcd7e8d6ec45fe",
   "lastOpenFiles": [
-    "01 - Prompts/DevOps Tutor - Task Prompt.md",
     "01 - Prompts/DevOps Report Editor Prompt.md",
+    "01 - Prompts/Алиса README Editor Prompt.md",
+    "01 - Prompts/DevOps Tutor - Task Prompt.md",
     "02 - Linux & DevOps/Linux Administration.md",
     "01 - Prompts/Export Skill Prompt.md",
     "01 - Prompts/Export SKILL.md",
@@ -229,7 +230,6 @@
     "03 - Projects/LockStock",
     "03 - Projects",
     "02 - Linux & DevOps",
-    "01 - Prompts/SQL Tutor Prompt.md",
     "01 - Prompts",
     "00 - Navigation",
     "Pasted image 20260619121500.png"
