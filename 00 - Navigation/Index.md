@@ -22,6 +22,7 @@ created: 2026-07-22
 * 🗄️ [[SQL Tutor Prompt|SQL Tutor — Базы данных]] — Промт для изучению PostgreSQL (содержит схему БД Pizzeria и задание «Set Theory»).
 * 🐧 [[DevOps Tutor Prompt|DevOps Tutor — Linux & Инфраструктура]] — Промт для изучения Linux, Docker, CI/CD и системного администрирования.
 * 🛠️ [[DevOps Tutor - Task Prompt|DevOps Tutor — Практика DevOps]] — Промт для пошагового решения заданий по DevOps.
+* ✍️ [[DevOps Report Editor Prompt|DevOps Report Editor — Отчёты «Школа 21»]] — Промт для оформления отчётов (REPORT.md) по практическим проектам «Школы 21».
 * 🎲 [[LockStock Question Expansion Prompt|LockStock — Промт для генерации вопросов]] — Промт для разворачивания тем в числовые вопросы квиза.
 * 💬 [[Question Skill Prompt|Question Skill — Легковесное общение]] — Промт для легковесного режима общения.
 * 📚 [[Obsidian Notes Skill Prompt|Obsidian Notes Skill — Управление хранилищем]] — Промт для управления базой заметок Obsidian.
@@ -41,6 +42,7 @@ created: 2026-07-22
 
 ### 🐧 School 21 DevOps (Интенсив DO7 - DO11)
 * 🎯 [[Трекер прогресса DevOps (40 дней)]] — Интерактивный 40-дневный трекер и пошаговый календарь выполнения проектов.
+* ✍️ [[DevOps Report Editor Prompt|Промт DevOps-редактора отчётов]] — Промт для чистового оформления REPORT.md по проектам.
 
 ### 🎲 LockStock (Интеллектуальный квиз)
 * 📜 [[Lock Stock #4|Lock Stock #4 — Пакет вопросов]] — 15 вопросов с подсказками и ответами.
