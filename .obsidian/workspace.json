@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Projects/LockStock/Lock Stock #4.md",
+                "file": "01 - Prompts/Алиса README Editor Prompt.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lock Stock #4"
+              "title": "Алиса README Editor Prompt"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "39888ce6b84e36b9",
   "lastOpenFiles": [
+    "03 - Projects/LockStock/Lock Stock #4.md",
     "01 - Prompts/Алиса README Editor Prompt.md",
     "01 - Prompts/Go Tutor - Task Prompt.md",
     "01 - Prompts/DevOps Tutor - Task Prompt.md",
@@ -218,7 +219,6 @@
     "03 - Projects/School21 DevOps",
     "01 - Prompts/scripts/export_chat.py",
     "01 - Prompts/scripts",
-    "03 - Projects/LockStock/Lock Stock #4.md",
     "00 - Navigation/Vault Guidelines & AI System Prompt.md",
     "_templates/Inbox Draft Template.md",
     "Linux.md",
