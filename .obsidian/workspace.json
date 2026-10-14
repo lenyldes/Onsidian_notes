@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "562b82dad3567162",
+        "id": "c12ce6cf56306cb7",
         "type": "tabs",
         "children": [
           {
-            "id": "39888ce6b84e36b9",
+            "id": "97b0793908252d11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Prompts/Go Tutor - Task Prompt.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Go Tutor - Task Prompt"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -194,11 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39888ce6b84e36b9",
+  "active": "97b0793908252d11",
   "lastOpenFiles": [
+    "04 - Inbox/Без названия.md",
+    "01 - Prompts/Go Tutor - Task Prompt.md",
     "01 - Prompts/Алиса README Editor Prompt.md",
     "03 - Projects/LockStock/Lock Stock #4.md",
-    "01 - Prompts/Go Tutor - Task Prompt.md",
     "01 - Prompts/DevOps Tutor - Task Prompt.md",
     "01 - Prompts/DevOps Tutor Prompt.md",
     "01 - Prompts/Go Tutor - Question Prompt.md",
@@ -224,7 +221,6 @@
     "Linux.md",
     "_templates/Tech Note Template.md",
     "_templates/Quiz Questions Template.md",
-    "_templates/Prompt Note Template.md",
     "_templates",
     "04 - Inbox",
     "03 - Projects/LockStock",
