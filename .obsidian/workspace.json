@@ -11,10 +11,14 @@
             "id": "97b0793908252d11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Inbox/Без названия.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Без названия"
             }
           }
         ]
