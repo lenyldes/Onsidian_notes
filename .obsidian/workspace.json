@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Prompts/Go Tutor - Task Prompt.md",
+                "file": "01 - Prompts/DevOps Tutor Prompt.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Go Tutor - Task Prompt"
+              "title": "DevOps Tutor Prompt"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "97b0793908252d11",
   "lastOpenFiles": [
-    "04 - Inbox/Без названия.md",
     "01 - Prompts/Go Tutor - Task Prompt.md",
+    "04 - Inbox/Без названия.md",
     "01 - Prompts/Алиса README Editor Prompt.md",
     "03 - Projects/LockStock/Lock Stock #4.md",
     "01 - Prompts/DevOps Tutor - Task Prompt.md",
