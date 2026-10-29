@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Inbox/Команды Antigravity CLI.md",
+                "file": "01 - Prompts/Алиса README Editor Prompt.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Команды Antigravity CLI"
+              "title": "Алиса README Editor Prompt"
             }
           }
         ]
@@ -196,6 +196,10 @@
   },
   "active": "97b0793908252d11",
   "lastOpenFiles": [
+    "01 - Prompts/Локальные правила ИИ-агентов.md",
+    "04 - Inbox/Без названия.md",
+    "AGENTS.md",
+    "04 - Inbox/Команды Antigravity CLI.md",
     "01 - Prompts/Obsidian Notes Skill Prompt.md",
     "01 - Prompts/LockStock Question Expansion Prompt.md",
     "01 - Prompts/Go Tutor - Task Prompt.md",
@@ -212,8 +216,6 @@
     "03 - Projects/LockStock/Lock Stock #4.md",
     "README.md",
     "Index.md",
-    "04 - Inbox/Без названия.md",
-    "04 - Inbox/Команды Antigravity CLI.md",
     "04 - Inbox/Inbox Guide.md",
     "01 - Prompts/Go Tutor - Question Prompt.md",
     "03 - Projects/School21 DevOps/Трекер прогресса DevOps (40 дней).md",
@@ -223,8 +225,6 @@
     "01 - Prompts/scripts",
     "00 - Navigation/Vault Guidelines & AI System Prompt.md",
     "_templates/Inbox Draft Template.md",
-    "Linux.md",
-    "_templates/Tech Note Template.md",
     "_templates",
     "04 - Inbox",
     "03 - Projects/LockStock",
