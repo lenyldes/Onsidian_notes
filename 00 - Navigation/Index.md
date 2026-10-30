@@ -37,6 +37,7 @@ created: 2026-07-22
 
 * 🛠️ [[Linux Administration|Linux & Системное администрирование]] — Шпаргалки по Docker, Fail2ban, Raspberry Pi 5, Telemt и Cloudflare WARP.
 * 🦙 [[Ollama & Continue Setup|Ollama & Continue в VSCode]] — Развертывание локальных моделей (Qwen 2.5 Coder) в Docker и настройка Continue.
+* 🛡️ [[AmneziaWG Server Migration|Миграция AmneziaWG в Docker]] — Пошаговый перенос контейнера AmneziaWG между серверами с сохранением ключей и пиров.
 
 ---
 

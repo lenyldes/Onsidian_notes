@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Prompts/Локальные правила ИИ-агентов.md",
+                "file": "02 - Linux & DevOps/AmneziaWG Server Migration.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Локальные правила ИИ-агентов"
+              "title": "AmneziaWG Server Migration"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "97b0793908252d11",
   "lastOpenFiles": [
-    "01 - Prompts/Алиса README Editor Prompt.md",
     "01 - Prompts/Локальные правила ИИ-агентов.md",
+    "02 - Linux & DevOps/AmneziaWG Server Migration.md",
+    "01 - Prompts/Алиса README Editor Prompt.md",
     "04 - Inbox/Без названия.md",
     "AGENTS.md",
     "04 - Inbox/Команды Antigravity CLI.md",
@@ -224,7 +225,6 @@
     "01 - Prompts/scripts/export_chat.py",
     "01 - Prompts/scripts",
     "00 - Navigation/Vault Guidelines & AI System Prompt.md",
-    "_templates/Inbox Draft Template.md",
     "_templates",
     "04 - Inbox",
     "03 - Projects/LockStock",

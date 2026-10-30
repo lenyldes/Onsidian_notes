@@ -16,7 +16,8 @@
 │   └── LockStock Question Expansion Prompt.md
 ├── 02 - Linux & DevOps/   # Инструкции по системному администрированию
 │   ├── Linux Administration.md
-│   └── Ollama & Continue Setup.md
+│   ├── Ollama & Continue Setup.md
+│   └── AmneziaWG Server Migration.md
 └── 03 - Projects/         # Проекты и специфические заметки
     └── LockStock/
         └── Lock Stock #4.md
