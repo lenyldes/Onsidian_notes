@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Linux & DevOps/AmneziaWG Server Migration.md",
+                "file": "01 - Prompts/Алиса README Editor Prompt.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "AmneziaWG Server Migration"
+              "title": "Алиса README Editor Prompt"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "97b0793908252d11",
   "lastOpenFiles": [
-    "01 - Prompts/Локальные правила ИИ-агентов.md",
     "02 - Linux & DevOps/AmneziaWG Server Migration.md",
+    "01 - Prompts/Локальные правила ИИ-агентов.md",
     "01 - Prompts/Алиса README Editor Prompt.md",
     "04 - Inbox/Без названия.md",
     "AGENTS.md",
