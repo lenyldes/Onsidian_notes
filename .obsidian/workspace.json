@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Prompts/Алиса README Editor Prompt.md",
+                "file": "01 - Prompts/Локальные правила ИИ-агентов.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Алиса README Editor Prompt"
+              "title": "Локальные правила ИИ-агентов"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "97b0793908252d11",
   "lastOpenFiles": [
+    "01 - Prompts/Алиса README Editor Prompt.md",
     "01 - Prompts/Локальные правила ИИ-агентов.md",
     "04 - Inbox/Без названия.md",
     "AGENTS.md",
@@ -207,7 +208,6 @@
     "01 - Prompts/DevOps Tutor Prompt.md",
     "01 - Prompts/DevOps Tutor - Task Prompt.md",
     "01 - Prompts/DevOps Report Editor Prompt.md",
-    "01 - Prompts/Алиса README Editor Prompt.md",
     "01 - Prompts/Question Skill Prompt.md",
     "01 - Prompts/SQL Tutor Prompt.md",
     "01 - Prompts/Export Skill Prompt.md",
