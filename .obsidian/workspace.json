@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c12ce6cf56306cb7",
+        "id": "562b82dad3567162",
         "type": "tabs",
         "children": [
           {
-            "id": "97b0793908252d11",
+            "id": "39888ce6b84e36b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01 - Prompts/Алиса README Editor Prompt.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Алиса README Editor Prompt"
@@ -41,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -194,37 +192,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97b0793908252d11",
+  "active": "39888ce6b84e36b9",
   "lastOpenFiles": [
+    "01 - Prompts/DevOps Tutor - Task Prompt.md",
     "02 - Linux & DevOps/AmneziaWG Server Migration.md",
     "01 - Prompts/Локальные правила ИИ-агентов.md",
     "01 - Prompts/Алиса README Editor Prompt.md",
-    "04 - Inbox/Без названия.md",
-    "AGENTS.md",
-    "04 - Inbox/Команды Antigravity CLI.md",
-    "01 - Prompts/Obsidian Notes Skill Prompt.md",
-    "01 - Prompts/LockStock Question Expansion Prompt.md",
-    "01 - Prompts/Go Tutor - Task Prompt.md",
     "01 - Prompts/Export SKILL.md",
-    "01 - Prompts/DevOps Tutor Prompt.md",
-    "01 - Prompts/DevOps Tutor - Task Prompt.md",
     "01 - Prompts/DevOps Report Editor Prompt.md",
+    "01 - Prompts/DevOps Tutor Prompt.md",
+    "01 - Prompts/Obsidian Notes Skill Prompt.md",
     "01 - Prompts/Question Skill Prompt.md",
-    "01 - Prompts/SQL Tutor Prompt.md",
-    "01 - Prompts/Export Skill Prompt.md",
     "02 - Linux & DevOps/Linux Administration.md",
     "02 - Linux & DevOps/Ollama & Continue Setup.md",
-    "03 - Projects/LockStock/Lock Stock #4.md",
     "README.md",
     "Index.md",
     "04 - Inbox/Inbox Guide.md",
+    "04 - Inbox/Команды Antigravity CLI.md",
     "01 - Prompts/Go Tutor - Question Prompt.md",
+    "01 - Prompts/Go Tutor - Task Prompt.md",
+    "01 - Prompts/Export Skill Prompt.md",
+    "01 - Prompts/LockStock Question Expansion Prompt.md",
     "03 - Projects/School21 DevOps/Трекер прогресса DevOps (40 дней).md",
     "00 - Navigation/Index.md",
     "03 - Projects/School21 DevOps",
     "01 - Prompts/scripts/export_chat.py",
     "01 - Prompts/scripts",
+    "03 - Projects/LockStock/Lock Stock #4.md",
     "00 - Navigation/Vault Guidelines & AI System Prompt.md",
+    "_templates/Inbox Draft Template.md",
+    "Linux.md",
+    "_templates/Tech Note Template.md",
     "_templates",
     "04 - Inbox",
     "03 - Projects/LockStock",
