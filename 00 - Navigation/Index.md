@@ -29,6 +29,7 @@ created: 2026-07-22
 * 📚 [[Obsidian Notes Skill Prompt|Obsidian Notes Skill — Управление хранилищем]] — Промт для управления базой заметок Obsidian.
 * 📤 [[Export Skill Prompt|Export Skill — Экспорт чата]] — Промт для экспорта истории текущей беседы в формат Markdown.
 * 📋 [[Локальные правила ИИ-агентов]] — Правила разработки из AGENTS.md проекта BE3_Nginx_Pro_ID_1269323-2.
+* 📄 [[HTML Resume Editor Prompt|HTML Resume Editor — Двухстраничное резюме]] — Промт для создания и вёрстки резюме в формате HTML под печать в PDF (A4).
 
 ---
 
