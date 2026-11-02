@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Prompts/HTML Resume Editor Prompt.md",
+                "file": "01 - Prompts/Алиса README Editor Prompt.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HTML Resume Editor Prompt"
+              "title": "Алиса README Editor Prompt"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "97b0793908252d11",
   "lastOpenFiles": [
+    "01 - Prompts/HTML Resume Editor Prompt.md",
     "01 - Prompts/Алиса README Editor Prompt.md",
     "02 - Linux & DevOps/AmneziaWG Server Migration.md",
     "01 - Prompts/Локальные правила ИИ-агентов.md",
@@ -224,7 +225,6 @@
     "03 - Projects/School21 DevOps",
     "01 - Prompts/scripts/export_chat.py",
     "01 - Prompts/scripts",
-    "00 - Navigation/Vault Guidelines & AI System Prompt.md",
     "_templates",
     "04 - Inbox",
     "03 - Projects/LockStock",
